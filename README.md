@@ -8,9 +8,10 @@ This design was used in our *Hand Imitation* project to mimic the movements of a
 
 <p align="center">
 <img src="media/Hand.png"/>
+</p>
+<p align="center">
 <i>Underactuated Arm</i>
 </p>
-
 
 ## Basic Model
 
@@ -20,6 +21,8 @@ This was done by only making one link out of three of a single finger finger, an
 
 <p align="center">
 <img src="media/Finger_Link.png"/>
+</p>
+<p align="center">
 <i>Finger Link</i>
 </p>
 
@@ -27,6 +30,8 @@ Next the palm and arm were modelled with appropriate dimensions and everything a
 
 <p align="center">
 <img src="media/Hand2.png"/>
+</p>
+<p align="center">
 <i>Basic Hand</i>
 </p>
 
@@ -39,6 +44,8 @@ We know that the motion of a finger on our arm is very much constrained and we d
 
 <p align="center">
 <img src="media/LinksPic.png"/>
+</p>
+<p align="center">
 <i>Links</i>
 </p>
 
@@ -47,6 +54,8 @@ The configuration restricted the movement of the end-effector of each finger to 
 
 <p align="center">
 <img src="media/trajectory.png"/>
+</p>
+<p align="center">
 <i>Finger Trajectory</i>
 </p>
 
