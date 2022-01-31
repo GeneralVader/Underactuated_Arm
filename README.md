@@ -32,7 +32,7 @@ We know that the motion of a finger on our arm is very much constrained and we d
 This configuration under actuated our model as now only one servo was required for each finger.
 The configuration restricted the movement of the end-effector of each finger to travel along a fixed semicircular path each time the finger is bent like a human hand.
 
-![BentFinger](media/BentFingers.png)
+![BentFinger](media/trajectory.png)
 
 ## Conclusion
 
